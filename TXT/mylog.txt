@@ -12,3 +12,6 @@ ZCZC W01 180 L21 VirtualBox: Learn and Setting up VirtualBox
 ZCZC W01  60 L09 AsDos: asked to AsDos while doint the VirtualBox related
 ZCZC W01  60 L08 Trying SSH and PuTTy
 ZCZC W01  30 L99 Other (Practice some of VI commands)
+ZCZC W01 120 L11 Assignment #1: Create tunnel and troubleshoot, rsync, git set-up
+ZCZC W01  70 L99 Help a friend related to create tunnel trouble shoot, rsync, and git set-up
+ZCZC W01 120 L18 Create w00.md and w01.md for my Top 10 list
