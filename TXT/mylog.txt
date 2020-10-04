@@ -26,3 +26,4 @@ ZCZC W02  10 L14 Assignment #4: Export Public Key as mypubkey.txt
 ZCZC W02  60 L15 Assignment #5: Review and pick 3 of my closest neighbors
 ZCZC W02  50 L17 Assignment #7: Write and understand a simple and useful bash script
 ZCZC W02  20 L18 Assignment #8: Update mylog.txt
+ZCZC W02   5 L19 Assignment #9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
