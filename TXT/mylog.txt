@@ -1,12 +1,16 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
+# Week 00
 ZCZC W00 120 L02 Zoom related
 ZCZC W00  60 L01 SCELE related
 ZCZC W00  30 L03 Github related
 ZCZC W00  30 L04 Github Pages related
 ZCZC W00  38 L99 Other (YouTube)
 ZCZC W00  40 L06 Reading References/Books/Documents
+
+# Week 01
 ZCZC W01 100 L02 Zoom related
 ZCZC W01 180 L21 VirtualBox: Learn and Setting up VirtualBox
 ZCZC W01  60 L09 AsDos: asked to AsDos while doint the VirtualBox related
@@ -15,10 +19,12 @@ ZCZC W01  30 L99 Other (Practice some of VI commands)
 ZCZC W01 120 L11 Assignment #1: Create tunnel and troubleshoot, rsync, git set-up
 ZCZC W01  70 L99 Help a friend related to create tunnel trouble shoot, rsync, and git set-up
 ZCZC W01 120 L18 Create w00.md and w01.md for my Top 10 list
+
+# Week 02
 ZCZC W02 100 L02 Zoom related
 ZCZC W02  70 L11 Assignment #1: Read OSC10 Chapter 16 & Chapter 17
 ZCZC W02 130 L23 Discord: actually discussion through Google Meet
-ZCZC W02 160 L05 GSGS Related
+ZCZC W02 180 L05 GSGS Related
 ZCZC W02  30 L09 AsDos: Asking, etc
 ZCZC W02  10 L12 Assignment #2: Generate GnuPG Key Pair
 ZCZC W02  10 L13 Assignment #3: Import Public Key from OSP website
@@ -27,3 +33,4 @@ ZCZC W02  60 L15 Assignment #5: Review and pick 3 of my closest neighbors
 ZCZC W02  50 L17 Assignment #7: Write and understand a simple and useful bash script
 ZCZC W02  20 L18 Assignment #8: Update mylog.txt
 ZCZC W02   5 L19 Assignment #9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
+ZCZC W02  80 L10 Assignment (General) Update .bash_aliases
