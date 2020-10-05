@@ -1,7 +1,10 @@
 # Welcome to Eugene's OS202 Github Page
 ## My name is Eugene Brigita <br>
 
-[WEB](https://eugenebrigita.github.io/os202/) | [GitHub](https://github.com/eugenebrigita/os202/) | [My Log](TXT/mylog.txt) | [MyRank](TXT/myrank.txt)
+[WEB](https://eugenebrigita.github.io/os202/) 
+[GitHub](https://github.com/eugenebrigita/os202/) 
+[My Log](TXT/mylog.txt) 
+[MyRank](TXT/myrank.txt)
 
 <br>
 ## Operating Systems Weekly Top Ten List
