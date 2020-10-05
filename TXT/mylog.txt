@@ -34,3 +34,4 @@ ZCZC W02  50 L17 Assignment #7: Write and understand a simple and useful bash sc
 ZCZC W02  20 L18 Assignment #8: Update mylog.txt
 ZCZC W02   5 L19 Assignment #9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
 ZCZC W02  80 L10 Assignment (General) Update .bash_aliases
+ZCZC W02 120 L16 Assignment #6: Update TOP 10 list of Week 2
