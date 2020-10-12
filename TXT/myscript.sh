@@ -1,8 +1,9 @@
 #!/bin/bash
 # Eugene Brigita Lauw
 # Sun Oct 04 17:20 WIB
+# REV 01 12 Okt 2020 23:30 WIB
 
-FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh"
+FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
 # delete file if there existe #SHA or #SHA.asc
