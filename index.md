@@ -13,5 +13,6 @@ Here's the TOP 10 from my perspective please click to read if you are interested
 * [Week 01](W01/)
 * [Week 02](W02/)
 * [Week 03](W03/)
+* [Week 04](W04/)
 
-I hope I all can make constantly good progress until the end of the semester! Fighting <3
+I hope we all can make constantly good progress until the end of the semester! Fighting <3
