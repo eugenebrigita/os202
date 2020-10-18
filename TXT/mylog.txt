@@ -60,3 +60,5 @@ ZCZC W04 120 L14 Assignment #4: Create TOP 10 List of Week 04
 ZCZC W04  10 L15 Assignment #5: Run chktoken NEWHOPE and write the result to myW04token.txt
 ZCZC W04  25 L16 Assignment #6: Download https://os.vlsm.org/WEEK/W04.tar.bz2.asc and write to myW04.txt
 ZCZC W04   8 L17 Assignment #7: Update mylog.txt
+ZCZC W04   5 L18 Assignment #8: Update bash script
+ZCZC W04   5 L19 Assignment #9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
