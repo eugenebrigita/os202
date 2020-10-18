@@ -42,10 +42,21 @@ ZCZC W03  40 L05 GSGS Related
 ZCZC W03  30 L09 AsDos: Asking, etc
 ZCZC W03  60 L11 Assignment #1: Read OSC10 Chapter 13, Chapter 14 & Chapter 17
 ZCZC W03  20 L13 Assignment #3: Visit Virtual Guest and Update File (+ Update Packages)
-ZCZC W02  40 L14 Assignment #4: Review and pick 3 of my closest neighbors
+ZCZC W03  40 L14 Assignment #4: Review and pick 3 of my closest neighbors
 ZCZC W03  70 L15 Assignment #5: Create TOP 10 List of Week 03
 ZCZC W03  60 L16 Assignment #6: chtoken + debugging
-ZCZC W02  50 L17 Assignment #7: Download TLPI Code and write the "disk usage" 
+ZCZC W03  50 L17 Assignment #7: Download TLPI Code and write the "disk usage" 
 ZCZC W03  10 L18 Assignment #8: Update mylog.txt
 ZCZC W03   5 L19 Assignment #9: Update bash script
 ZCZC W03   5 L20 Assignment #10: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
+
+# Week 04
+ZCZC W04 100 L02 Zoom related
+ZCZC W04 180 L05 GSGS Related
+ZCZC W04  60 L11 Assignment #1: Read OSC10 Chapter 09
+ZCZC W04  15 L12 Assignment #2: Update my Virtual Guest and Update Files
+ZCZC W04  50 L13 Assignment #3: Review and pick 3 of my closest neighbors
+ZCZC W04 120 L14 Assignment #4: Create TOP 10 List of Week 04
+ZCZC W04  10 L15 Assignment #5: Run chktoken NEWHOPE and write the result to myW04token.txt
+ZCZC W04  25 L16 Assignment #6: Download https://os.vlsm.org/WEEK/W04.tar.bz2.asc and write to myW04.txt
+ZCZC W04   8 L17 Assignment #7: Update mylog.txt
