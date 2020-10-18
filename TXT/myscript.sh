@@ -6,7 +6,9 @@
 FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
+
 # delete file if there existe #SHA or #SHA.asc
+echo "rm -f $SHA $SHA.asc"
 rm -f $SHA $SHA.asc
 
 echo "sha256sum $FILES > $SHA"  # print to be executed script
