@@ -14,3 +14,8 @@ ZCZC W01 baguspr
 ZCZC W02 fadintan
 ZCZC W02 constantine-kevin
 ZCZC W02 bilazahra
+
+# Week 03
+ZCZC W03 fahdikrie
+ZCZC W03 gilbertstefano48
+ZCZC W03 destarass
