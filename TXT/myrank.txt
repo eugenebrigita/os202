@@ -19,3 +19,8 @@ ZCZC W02 bilazahra
 ZCZC W03 fahdikrie
 ZCZC W03 gilbertstefano48
 ZCZC W03 destarass
+
+# Week 04
+ZCZC W04 fathinah
+ZCZC W04 bonarws
+ZCZC W04 ferenica
