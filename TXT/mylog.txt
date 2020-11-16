@@ -78,3 +78,18 @@ ZCZC W05  10 L17 Assignment #7: Update mylog.txt
 ZCZC W05   0 L18 Assignment #8: Update bash script
 ZCZC W05   5 L19 Assignment #9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM
 ZCZC W05 100 L22 YouTube
+
+# Week 06
+ZCZC W06 270 L05 GSGS Related
+ZCZC W06 100 L11 Assignment #1: Read OSC10 Chapter 03 + Chapter 04
+ZCZC W06  10 L12 Assignment #2: Update my Virtual Guest
+ZCZC W06  80 L13 Assignment #3: Review and pick 3 of my closest neighbors
+ZCZC W06 180 L14 Assignment #4: Create TOP 10 List of Week 04
+ZCZC W06   5 L15 Assignment #5: Run chktoken JOLANTRU and write the result to myW05token.txt
+ZCZC W06  50 L16 Assignment #6: Download https://os.vlsm.org/WEEK/W06.tar.bz2.asc and write to myW06.txt
+ZCZC W06  15 L17 Assignment #7: Update mylog.txt
+ZCZC W06   3 L18 Assignment #8: Update bash script: Checking
+ZCZC W06   5 L19 Assignment #9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM
+ZCZC W06  55 L20 Assignment #10: Do "make clean" W06/ folder and "tar" it back into myW06.tar.bz2
+ZCZC W06  35 L20 Assignment #11: GnuPG encrypt (armor) to myW06.tar.bz2.txt
+ZCZC W06 150 L22 YouTube
