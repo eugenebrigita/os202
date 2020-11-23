@@ -30,3 +30,7 @@ ZCZC W05 azhar81
 ZCZC W05 dandyfebriano
 ZCZC W05 fghaffar26
 
+# Week 06
+ZCZC W06 fahdikrie
+ZCZC W06 fathurrp
+ZCZC W06 gpersable
