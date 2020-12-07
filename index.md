@@ -17,5 +17,6 @@ Here's the TOP 10 from my perspective please click to read if you are interested
 * [Week 05](W05/)
 * [Week 06](W06/)
 * [Week 07](W07/)
+* [Week 09](W09/)
 
-I hope we all can make constantly good progress until the end of the semester! Fighting <3
+
